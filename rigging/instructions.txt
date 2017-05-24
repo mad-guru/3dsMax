@@ -1,0 +1,12 @@
+chappal:
+currently no rig cut version.
+
+is created after rest of rig setup..then run chpl functions to bring in scene file etc
+
+create bones, let it align pt to toe, then resize chappal using edit mesh.
+align pts to origin. delete rigs and leave only pts and top and btm chappal geometry
+
+save selected out to file and then run it again.
+
+you can even load envelopes and fix them then save out and run again on fresh scene.
+
