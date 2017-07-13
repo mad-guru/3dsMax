@@ -1,0 +1,9 @@
+Python in 3DS Max
+
+Running Python commands in 3Ds Max
+python.Execute "print 'hello'"
+python.ExecuteFile "demoBentCylinder.py"
+python.ExecuteFile @"C:\Program Files\Autodesk\3ds Max 2015\scripts\Python\demoBentCylinder.py"
+
+To show list of 3DS Max Python Commands:
+showinterface python
